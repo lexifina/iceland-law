@@ -1,0 +1,2 @@
+# Article 36 (b)
+Written contracts offered by a business operator to consumers shall be phrased in plain and intelligible language. In the event of any doubts concerning the meaning of a contract referred to in paragraph 1 of Article 36, the contract shall be construed in the consumer's favour. The rule in the second clause of paragraph 1 does not apply when persons or organisations that have the role of protecting consumers take action pursuant to statutory law in order to obtain a decision as to whether contractual terms drawn up for general use are unfair.
