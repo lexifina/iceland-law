@@ -1,0 +1,3 @@
+# Article 133a
+Cross-border merger means a merger where merger Companies are subject to the legislation of at least two States in the European Economic Area, a Member State of the Convention Establishing the European Free Trade Association or the Faroe Islands as well as other countries in accordance with authority contained in Regulations laid down by the Minister of Economic Affairs in consultation with the Minister of Finance.
+The provisions of Art. 119 – 129 and 131 do with requisite amendments, cf. Art. 133 a – 133 c and Art. 133 e – Art. 133 f, extend to cross-border merger as applicable.

@@ -1,0 +1,8 @@
+# Article 6c
+In case a specialized report has not been prepared in accordance with Art. 6 a or Art. 6 b the founders or the Board of Directors of the Company shall instead prepare a statement which shall specify the following:-
+1. Description of payment.
+2. The value of the payment, the basis of the assessment of the value and the method of assessment.
+3. A declaration to the effect that the value of the payment be at least equivalent to the nominal value of the shares to be issued plus a conceivable surcharge on account of excessive price.
+4. A declaration to the effect that no new circumstances of importance have arisen concerning the original assessment of value.
+Upon establishment a statement shall attach to the Memorandum of Association. Upon the increase of the share capital the statement shall be contained in the call to the shareholders´ meeting or be attached thereto. The statement shall be sent to the Register of Limited Companies within a month as of the time payment was effected to the Company and published in accordance with Art. 151.
+In case a Board of Directors decide upon the increase of the share capital in accordance with authority from a shareholders´ meeting the payment will not be considered payment of share capital until the Register of Limited Companies has been sent notification of when a decision of the increase of the share capital was made as well as information in accordance with clauses 1 – 4 of para. 1. The notification shall be published in accordance with Art. 151. A statement in accordance with para. 1 may in such an instance be limited to a notification that no new circumstances of importance concerning the assessment of value have arisen.
