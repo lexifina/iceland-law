@@ -1,0 +1,3 @@
+# Article 68a
+If someone is refused an official position or an official licence to pursue employment because of having committed a criminal offence, the refusal by the authorities may be referred to the courts according to the rules on criminal procedure. ...
+If someone is permanently deprived of rights under a judgment in a criminal case, then when 5 years have passed since the judgment was delivered, the courts may be approached in accordance with the rules on criminal procedure as to whether the deprivation of rights should be cancelled. ... Special provisions in law regarding the cancellation of a deprivation of rights shall retain their validity.

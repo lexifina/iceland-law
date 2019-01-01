@@ -1,0 +1,3 @@
+# Article 175
+Conspiring with another person to commit an offence that is punishable by at least 4 years' imprisonment, when the commission of the offence is part of the activities of a criminal organisation, shall be punishable by up to 4 years' imprisonment unless a heavier sentence is prescribed for the offence under other provisions of this Act, or of other statutes.
+'Criminal organisation' here refers to an association of three or more persons, the main aim of which is to commit, directly or indirectly, for profit and in an organised manner, criminal actions that are punishable by at least 4 years' imprisonment, or which have the commission of such actions as a substantial part of their activities.

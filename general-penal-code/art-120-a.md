@@ -1,0 +1,2 @@
+# Article 120a
+Consciously giving incorrect information or consciously making incorrect announcements of such a nature as are likely to arouse fears about persons' lives, health or well-being with regard to aviation safety or airport safety, shall be punishable by fines ... or up to three years' imprisonment. The same punishment shall apply to spreading rumours of this type against one's better knowledge.

@@ -1,0 +1,4 @@
+# Article 218
+c Where a person convicted of a violation of Article 217, 218 or 218 a, has previously been punished under those articles or has been punished for an offence otherwise connected with acts of deliberate violence, the punishment may be increased by up to one half.
+Where consent is given for an assault, this will mean that the punishment that would otherwise apply may be reduced. Where the offence falls under Article 217, punishment shall not be applied where it is demonstrated that consent was given.
+If assault takes place in the course of a scuffle or fight between the perpetrator and the victim, punishment may be reduced or even waved where the offence falls under Article 217. The same applies if the injured party initiated the fight by an attack, making irritating remarks or similar actions.

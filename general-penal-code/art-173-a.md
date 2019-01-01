@@ -1,0 +1,3 @@
+# Article 173a
+Any person who, contrary to the provisions of the Addictive Drugs and Narcotics Act, supplies addictive drugs and narcotics to many persons or makes them over for a substantial payment or in another particularly criminal manner, shall be imprisoned for up to 12 years.
+The same punishment shall be imposed on any person who, in contravention of the aforementioned Act, manufactures, prepares, imports, exports, purchases, releases, accepts or has in his or her keeping addictive drugs and narcotics for the purpose of making them over to others in one of the manners listed in the first paragraph.

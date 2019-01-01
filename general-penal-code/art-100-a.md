@@ -1,0 +1,9 @@
+# Article 100a
+Punishment of up to lifelong imprisonment shall be imposed on any person committing one or more of the following acts of terrorism with the intention of causing the public serious fear or unlawfully compelling the Icelandic or foreign authorities, or international institutions, to take action or refrain from taking action with a view to weakening or damaging the constitutional structure or the political, economic or social basis of the state or international institution:
+1. homicide under Article 211,
+2. assault under Article 218,
+3. deprivation of freedom under Article 226,
+4. disturbing traffic safety under the first paragraph of Article 168, interfering with the operation of public transport vehicles, etc., under the first paragraph of Article 176 or causing large-scale damage to property under the second paragraph of Article 257, these offences being committed in such a way as to endanger human life or cause great financial loss,
+5. hijacking of an aircraft under the second paragraph of Article165 or attacking persons in an airport intended for international air traffic under the third paragraph of Article 165,
+6. arson under the second paragraph of Article 164, causing an explosion, the dispersal of harmful gases, flooding, a shipwreck, a railway, automobile or aircraft accident, or accidents involving similar vehicles or means of transport under the first paragraph of Article 165; causing a general shortage of drinking water or introducing harmful substances into a water reservoir or water pipes under the first paragraph of Article 170, or introducing toxic or other hazardous substances into objects intended for sale or general use under the first paragraph of Article 171.
+The same punishment shall be applied to any person who, with the same aims, threatens to commit the offences listed in the first paragraph.

@@ -1,0 +1,2 @@
+# Article 19b
+Provisions in law on the criminal liability of legal persons shall apply, subject to any limitations provided for therein, to any entity which, while not being a natural person, is capable of enjoying rights and bearing duties under Icelandic law, including public limited companies, private limited companies, companies with mixed liability of owners, European Interest Groupings, partnership companies, co-operative societies, public associations, private foundations, administrative authorities, institutions and municipalities.
