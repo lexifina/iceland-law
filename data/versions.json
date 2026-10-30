@@ -1,0 +1,1087 @@
+{
+ "country": "IS",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the Republic of Iceland (English translation)",
+   "url": "https://www.government.is/topics/governance-and-national-symbols/constitution/",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 79,
+     "source_url": "https://www.government.is/topics/governance-and-national-symbols/constitution/",
+     "sha256": "75cb5c6c53ab392c12dcbf4be584d38c7ebce35b9818890a2e1cac6b74d6121c"
+    }
+   ]
+  },
+  {
+   "slug": "general-penal-code",
+   "short": "Penal Code",
+   "title": "The General Penal Code, No. 19/1940 (English translation)",
+   "url": "https://www.ministryoffinance.is/library/01-Ministries/Ministry-of-Justice/Generlal%20Penal%20Code,%20No.19%201940.pdf",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 292,
+     "source_url": "https://www.ministryoffinance.is/library/01-Ministries/Ministry-of-Justice/Generlal%20Penal%20Code,%20No.19%201940.pdf",
+     "sha256": "2b4e38f6181bba4ed25215b730f15c98059d202b5236556220de287ec32ddf50"
+    }
+   ]
+  },
+  {
+   "slug": "public-limited-companies-act",
+   "short": "Public Limited Companies Act",
+   "title": "Act respecting Public Limited Companies, No. 2/1995 (English translation)",
+   "url": "https://www.government.is/library/04-Legislation/Act%20No%202-1995.pdf",
+   "versions": [
+    {
+     "from": "2011-05-01",
+     "units": 177,
+     "source_url": "https://www.government.is/library/04-Legislation/Act%20No%202-1995.pdf",
+     "sha256": "19fe907b28b74529c15b29169fb04cadc91c03496b9d91434897fdd9d17187a4"
+    }
+   ]
+  },
+  {
+   "slug": "contracts-act",
+   "short": "Contracts Act",
+   "title": "Act on contracts, agency and void legal instruments, No. 7/1936 (English translation)",
+   "url": "https://www.stjornarradid.is/media/atvinnuvegaraduneyti-media/media/acrobat/samningalog_tyddaensku.doc",
+   "versions": [
+    {
+     "from": "2006-11-01",
+     "units": 45,
+     "source_url": "https://www.stjornarradid.is/media/atvinnuvegaraduneyti-media/media/acrobat/samningalog_tyddaensku.doc",
+     "sha256": "2629ffb2ec0028c23bbc88949f94d7e38f48fec671e21771a11ef3ef57cf5ab4"
+    }
+   ]
+  },
+  {
+   "slug": "stjornarskra",
+   "short": "Stjskr.",
+   "title": "Stjórnarskrá lýðveldisins Íslands, nr. 33/1944",
+   "url": "https://www.althingi.is/lagas/nuna/1944033.html",
+   "versions": [
+    {
+     "from": "1995-10-01",
+     "units": 81,
+     "source_url": "https://www.althingi.is/lagas/nuna/1944033.html",
+     "sha256": "bcd1317c6ae307bc6428cd39753e980b694d4c8e21f83bee87f8dd107203db36"
+    },
+    {
+     "from": "1999-07-01",
+     "units": 81,
+     "source_url": "https://www.althingi.is/lagas/nuna/1944033.html",
+     "sha256": "bed80fcb32847e948911dfe5fa52325d7d1949d7ad4378b2fc219ce8cf1f6c33"
+    },
+    {
+     "from": "2013-10-01",
+     "units": 81,
+     "source_url": "https://www.althingi.is/lagas/nuna/1944033.html",
+     "sha256": "606ee89d0a63f3f007344d2e23a4bf95c87ad031c9c94ff7546acdfd96a217e0"
+    },
+    {
+     "from": "2019-05-03",
+     "units": 81,
+     "source_url": "https://www.althingi.is/lagas/nuna/1944033.html",
+     "sha256": "2842ea0b9f673f23bbd8dc8a3b3d6e543e085728af8fecdcf16e7bb0f814c504"
+    }
+   ]
+  },
+  {
+   "slug": "almenn-hegningarlog",
+   "short": "hgl.",
+   "title": "Almenn hegningarlög, nr. 19/1940",
+   "url": "https://www.althingi.is/lagas/nuna/1940019.html",
+   "versions": [
+    {
+     "from": "1995-10-01",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "587a04ae1e547a3710a10f571c2deadb05c264ab4da8e8ef3dad96304be85263"
+    },
+    {
+     "from": "1995-12-29",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "c19d783681fc30fd3e33a3cd91db45ae913699e1fbfe1071e5b07011f8f42f71"
+    },
+    {
+     "from": "1996-12-30",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "c19d783681fc30fd3e33a3cd91db45ae913699e1fbfe1071e5b07011f8f42f71"
+    },
+    {
+     "from": "1997-01-01",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "c19d783681fc30fd3e33a3cd91db45ae913699e1fbfe1071e5b07011f8f42f71"
+    },
+    {
+     "from": "1997-03-26",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "c19d783681fc30fd3e33a3cd91db45ae913699e1fbfe1071e5b07011f8f42f71"
+    },
+    {
+     "from": "1997-07-01",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "c19d783681fc30fd3e33a3cd91db45ae913699e1fbfe1071e5b07011f8f42f71"
+    },
+    {
+     "from": "1998-04-29",
+     "units": 277,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "645152ed8c4fcf89ffedcd10a293f87e7b5f8e530fd8425e7e96ccb325b413b2"
+    },
+    {
+     "from": "1998-06-18",
+     "units": 277,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "645152ed8c4fcf89ffedcd10a293f87e7b5f8e530fd8425e7e96ccb325b413b2"
+    },
+    {
+     "from": "1998-10-01",
+     "units": 273,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "645152ed8c4fcf89ffedcd10a293f87e7b5f8e530fd8425e7e96ccb325b413b2"
+    },
+    {
+     "from": "1998-12-30",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "b79cfe769e6e292ec6e81f91db39ad7316223930f84c407ed7c77c2f0fbee370"
+    },
+    {
+     "from": "1999-03-30",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "227f173be16eb245ade112bdca88fbfd3427cb12ee34559187f0656bea8514d2"
+    },
+    {
+     "from": "1999-12-30",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "a9c02fba71d0e1842fb04fecfa6e37ba71f930d9efc223118541c572c366e2ef"
+    },
+    {
+     "from": "2000-02-01",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "a9c02fba71d0e1842fb04fecfa6e37ba71f930d9efc223118541c572c366e2ef"
+    },
+    {
+     "from": "2000-04-28",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "5f679fe9fb5db017b184e30dbd97da4f08f465a5684a46471704e799d1b4f074"
+    },
+    {
+     "from": "2000-05-26",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "5f679fe9fb5db017b184e30dbd97da4f08f465a5684a46471704e799d1b4f074"
+    },
+    {
+     "from": "2000-06-06",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "5f679fe9fb5db017b184e30dbd97da4f08f465a5684a46471704e799d1b4f074"
+    },
+    {
+     "from": "2000-10-01",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "5f679fe9fb5db017b184e30dbd97da4f08f465a5684a46471704e799d1b4f074"
+    },
+    {
+     "from": "2001-05-16",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "397aa7721833a7d236a32196f38b5254c7c43c3969700bf21265c80a8ae71bd0"
+    },
+    {
+     "from": "2002-04-03",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "397aa7721833a7d236a32196f38b5254c7c43c3969700bf21265c80a8ae71bd0"
+    },
+    {
+     "from": "2002-05-14",
+     "units": 276,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "397aa7721833a7d236a32196f38b5254c7c43c3969700bf21265c80a8ae71bd0"
+    },
+    {
+     "from": "2002-05-17",
+     "units": 277,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "397aa7721833a7d236a32196f38b5254c7c43c3969700bf21265c80a8ae71bd0"
+    },
+    {
+     "from": "2002-05-31",
+     "units": 280,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "397aa7721833a7d236a32196f38b5254c7c43c3969700bf21265c80a8ae71bd0"
+    },
+    {
+     "from": "2003-04-03",
+     "units": 281,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "397aa7721833a7d236a32196f38b5254c7c43c3969700bf21265c80a8ae71bd0"
+    },
+    {
+     "from": "2003-04-07",
+     "units": 282,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "397aa7721833a7d236a32196f38b5254c7c43c3969700bf21265c80a8ae71bd0"
+    },
+    {
+     "from": "2003-10-01",
+     "units": 282,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "469006801d1362b90dcd80064326bd68e53ec7b9864d56a8e3f360adb40b904b"
+    },
+    {
+     "from": "2003-12-30",
+     "units": 283,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "89b05edb3b7328979b922822b97521f71ef3be009af7e3995af73d58cf2a5c9c"
+    },
+    {
+     "from": "2004-06-18",
+     "units": 283,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "64522d1739c13f063f1750fd73790744c5eaab85458422417900872421f53589"
+    },
+    {
+     "from": "2005-06-09",
+     "units": 284,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "23891a9214d4310efeba2f95175bc548a4d346df3e012f6f848fbdc23bc2902b"
+    },
+    {
+     "from": "2005-07-01",
+     "units": 284,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "23891a9214d4310efeba2f95175bc548a4d346df3e012f6f848fbdc23bc2902b"
+    },
+    {
+     "from": "2005-10-01",
+     "units": 282,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "23891a9214d4310efeba2f95175bc548a4d346df3e012f6f848fbdc23bc2902b"
+    },
+    {
+     "from": "2005-12-31",
+     "units": 282,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "c2ddf1e9f4d9bb9c813ec59ba2c471056891556f4c329e0cd1f66b1ab2be37b6"
+    },
+    {
+     "from": "2006-05-03",
+     "units": 283,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "cab000dc77bb4892d0d747850117319327e52995437126026fe1a393039080c3"
+    },
+    {
+     "from": "2006-06-30",
+     "units": 284,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "cab000dc77bb4892d0d747850117319327e52995437126026fe1a393039080c3"
+    },
+    {
+     "from": "2006-10-01",
+     "units": 284,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "cab000dc77bb4892d0d747850117319327e52995437126026fe1a393039080c3"
+    },
+    {
+     "from": "2007-03-29",
+     "units": 284,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "571f4a510a6931a5d80ef194c757e5f1dadf7e63f4b16006be8abe956f9e7844"
+    },
+    {
+     "from": "2007-04-04",
+     "units": 284,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "571f4a510a6931a5d80ef194c757e5f1dadf7e63f4b16006be8abe956f9e7844"
+    },
+    {
+     "from": "2007-06-01",
+     "units": 284,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "571f4a510a6931a5d80ef194c757e5f1dadf7e63f4b16006be8abe956f9e7844"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 284,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "6de4eadf15035a5141813f31c5b4ba10a64baac3a116940376aa85ff2364782e"
+    },
+    {
+     "from": "2009-05-01",
+     "units": 284,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "0d3569bcc5b46e18f124de0c08495f7af56fae0387feab0482e6a1e29c71b7ea"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 292,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "e185f5ce1c09b2568b98117eba960bc872eef8b2c06df8fac5e29bac3be67b13"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 292,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "983b5ceb71d70c0cb58964b4d7e38d8577b9150bd4a2a486fe216f79c7534d2b"
+    },
+    {
+     "from": "2011-06-28",
+     "units": 292,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "bea6bf042259fd6c97ac633fee6bd9794b7e7a0ea43489a70c9c72577846be29"
+    },
+    {
+     "from": "2011-06-30",
+     "units": 292,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "bea6bf042259fd6c97ac633fee6bd9794b7e7a0ea43489a70c9c72577846be29"
+    },
+    {
+     "from": "2011-09-30",
+     "units": 292,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "bea6bf042259fd6c97ac633fee6bd9794b7e7a0ea43489a70c9c72577846be29"
+    },
+    {
+     "from": "2012-06-27",
+     "units": 294,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "b96027db7bc1934b850eeb84b81497621a5340379b251edd5edf79fcd9cf5b55"
+    },
+    {
+     "from": "2013-02-02",
+     "units": 294,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "a22e9a4590a6cf0782cf652d878ebd4f363cd9f3b2edbfe1cbb7fa4c81f63734"
+    },
+    {
+     "from": "2013-04-09",
+     "units": 294,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "a22e9a4590a6cf0782cf652d878ebd4f363cd9f3b2edbfe1cbb7fa4c81f63734"
+    },
+    {
+     "from": "2014-02-13",
+     "units": 294,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "03ca9f769c40f9b75ee163d4681c75434b901cb33c09ff39eb599ce5b11a47ff"
+    },
+    {
+     "from": "2015-07-11",
+     "units": 294,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "ab1ad151cf78372bdea5438c260b84733996e532f4ba474f843f1b911d79ee6c"
+    },
+    {
+     "from": "2015-12-16",
+     "units": 294,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "5c5a1b5c8cfb3c6ca740c0ef9291102bf013ce3bfb1a12bbdb918040b3466953"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 294,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "5c5a1b5c8cfb3c6ca740c0ef9291102bf013ce3bfb1a12bbdb918040b3466953"
+    },
+    {
+     "from": "2016-04-05",
+     "units": 295,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "a0dc7406d4600f5cabbb2f89e538db53ff6fbefab99a63a4c62536da9d90ccd3"
+    },
+    {
+     "from": "2017-09-30",
+     "units": 295,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "3fe2633472ead9867d85e3e63911cd82c86ac4c7c2327fd2908d7aa2c3bb0a62"
+    },
+    {
+     "from": "2018-04-13",
+     "units": 295,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "0d3dc6a08b7a4698df589d3eb2eefc6fdfe9974573500d77e3bc1ebf0cc5c284"
+    },
+    {
+     "from": "2018-06-26",
+     "units": 295,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "fc696061fda89750ee121e00b2cbd3464aaa5821ec29bfe5ff87fa6e80729ef1"
+    },
+    {
+     "from": "2018-12-29",
+     "units": 295,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "cab55b936b7dd1237a9326c64c5cf842aaad39c27534876c30d07a8be355e36c"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 295,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "cab55b936b7dd1237a9326c64c5cf842aaad39c27534876c30d07a8be355e36c"
+    },
+    {
+     "from": "2019-05-03",
+     "units": 295,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "bb4a1b1d4995b717030e3b93ed6b463b74dae333b71d69564be4b10df49d4c32"
+    },
+    {
+     "from": "2019-06-28",
+     "units": 295,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "3fcf916ecfc89fd59dcfeb4a316bb0171490519a94a8d7a0880f1d1c7a860701"
+    },
+    {
+     "from": "2021-01-06",
+     "units": 295,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "dd7db9b16443e62e58afdb8045b842b80bd6ee91774e43055a309b679a969681"
+    },
+    {
+     "from": "2021-02-12",
+     "units": 296,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "f5723239236c4cdb81a8615e00709f3447ab77b04b0a022a8962c58a08748c41"
+    },
+    {
+     "from": "2021-02-27",
+     "units": 297,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "f5723239236c4cdb81a8615e00709f3447ab77b04b0a022a8962c58a08748c41"
+    },
+    {
+     "from": "2021-06-08",
+     "units": 297,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "4ae2f7de0ce7f2f5b4fcff5cfb10d4ead8b4abf8cd4876b886a657aa2928ec0e"
+    },
+    {
+     "from": "2021-06-26",
+     "units": 297,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "4ae2f7de0ce7f2f5b4fcff5cfb10d4ead8b4abf8cd4876b886a657aa2928ec0e"
+    },
+    {
+     "from": "2021-07-02",
+     "units": 297,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "4ae2f7de0ce7f2f5b4fcff5cfb10d4ead8b4abf8cd4876b886a657aa2928ec0e"
+    },
+    {
+     "from": "2022-06-22",
+     "units": 298,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "7c9c44bc117c10344d6ad460707126f8bc21972177837d545d13ad0ce3e8a001"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 299,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "78834feff8843402c8dffdd9182f43832fc0096f2b7d2a7c496d65e5649e7054"
+    },
+    {
+     "from": "2025-11-28",
+     "units": 300,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "5ec5722860b945e91aac5507b70b76958aaa142d6548f2fc88cea016d9a4bfad"
+    },
+    {
+     "from": "2026-01-17",
+     "units": 300,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "5ec5722860b945e91aac5507b70b76958aaa142d6548f2fc88cea016d9a4bfad"
+    },
+    {
+     "from": "2026-04-20",
+     "units": 300,
+     "source_url": "https://www.althingi.is/lagas/nuna/1940019.html",
+     "sha256": "54e9ff011fc959757a67ea458d57a4f575b1fc3de048ef79f4330097bfc3ec40"
+    }
+   ]
+  },
+  {
+   "slug": "log-um-medferd-sakamala",
+   "short": "sml.",
+   "title": "Lög um meðferð sakamála, nr. 88/2008",
+   "url": "https://www.althingi.is/lagas/nuna/2008088.html",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 234,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "bc8144ab21d0488c569c1ac7c60dfe322e6cf39a58ddc3ab62d85270893b3401"
+    },
+    {
+     "from": "2008-12-31",
+     "units": 234,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "379c7d3f1b3d4026a80877e4499d096b539d8fa80e8db9b0ff0187bc5807a1b5"
+    },
+    {
+     "from": "2009-06-30",
+     "units": 234,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "d13d985e2bbeacf5e8a81f8fc707bde180e3a30dcbf8f4046e16a8e93b324913"
+    },
+    {
+     "from": "2009-08-07",
+     "units": 234,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "d13d985e2bbeacf5e8a81f8fc707bde180e3a30dcbf8f4046e16a8e93b324913"
+    },
+    {
+     "from": "2010-06-12",
+     "units": 234,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "dc4b934156b28e52bbd72eb69ec204466263024dc5680fa75eea664ec18a0627"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 234,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "8b727c149b9a7f963e63328dc8d42601bc21a4da6a675b44c5f6661f735bda4c"
+    },
+    {
+     "from": "2011-09-30",
+     "units": 234,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "b78dca5521541f52546da9ffba2852e5db66e5f1803458a1c59b59d0f51d8516"
+    },
+    {
+     "from": "2013-03-09",
+     "units": 234,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "2139698659a630b4ac787b346e1ff06d61d8f0235e4900007eb84d64a73fb0dd"
+    },
+    {
+     "from": "2015-08-01",
+     "units": 234,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "e27cbc98c1b5b3da40cf8740476d538e19424115e8743ba25b6f3c7d6146503b"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 234,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "218e34e3256d8ef0bfb456ee7ffa2a203070dcae64c1c66f702f9d70bdb6988b"
+    },
+    {
+     "from": "2016-03-31",
+     "units": 234,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "484387d9e58401ad6f1e1f4c4120ac856585a453e3a52fb84f7de4a0dbe45f6b"
+    },
+    {
+     "from": "2016-04-05",
+     "units": 234,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "484387d9e58401ad6f1e1f4c4120ac856585a453e3a52fb84f7de4a0dbe45f6b"
+    },
+    {
+     "from": "2016-09-24",
+     "units": 234,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "484387d9e58401ad6f1e1f4c4120ac856585a453e3a52fb84f7de4a0dbe45f6b"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 234,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "30d36e5c60433305782ee8b32e751f36602032496d8d417552da7d1d93fdad59"
+    },
+    {
+     "from": "2017-06-16",
+     "units": 234,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "dd8eaf0ff44016c7249bc8b907176cf301585124e952004c64cd7a46cc84ac32"
+    },
+    {
+     "from": "2017-06-20",
+     "units": 234,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "80645117421826c7e62be3cd175a65f13c650388e560d8d3dc2b24f5b9583b5d"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 252,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "80645117421826c7e62be3cd175a65f13c650388e560d8d3dc2b24f5b9583b5d"
+    },
+    {
+     "from": "2018-04-13",
+     "units": 253,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "6016f51cc890ca4d6d2f5ad4c2cc46b08a0eee168990901c46657c5ce823c204"
+    },
+    {
+     "from": "2018-06-26",
+     "units": 253,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "db7d275fb6c551a8f16fd2316474ee4d7e10f11eafb2a1085a3c77321be033cd"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 253,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "2e66180256cba416fc0d895677a00302cda2145de69309e2df08e7573a635304"
+    },
+    {
+     "from": "2019-04-03",
+     "units": 253,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "d61e273a65a160d6f44305a89d53eb7c0a6dce36bbdc0a39bab29548c82802de"
+    },
+    {
+     "from": "2019-07-05",
+     "units": 253,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "26439c04d4160017dd45a67378f317e68756ee8a61705c0c3e0fd3da56971406"
+    },
+    {
+     "from": "2019-07-06",
+     "units": 253,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "26439c04d4160017dd45a67378f317e68756ee8a61705c0c3e0fd3da56971406"
+    },
+    {
+     "from": "2019-10-11",
+     "units": 254,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "6b5be371ac705a99fda6ad808d24cf10deb5e22b5dbe744d008ac5122a82fc89"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 254,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "6b5be371ac705a99fda6ad808d24cf10deb5e22b5dbe744d008ac5122a82fc89"
+    },
+    {
+     "from": "2020-12-01",
+     "units": 254,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "d7ffe6fb4585130e1321af3d71e07664d76b8c42fe1275c3ddcc1f56f4d40ed2"
+    },
+    {
+     "from": "2021-01-06",
+     "units": 254,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "d7ffe6fb4585130e1321af3d71e07664d76b8c42fe1275c3ddcc1f56f4d40ed2"
+    },
+    {
+     "from": "2021-02-27",
+     "units": 254,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "e063520687ce4f84ab44daf87fe1ec98c37e9274085f52e2dc90c7ce30e72295"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 254,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "b499e0be515eb758a970446794d0af64dd8fefcd37d2d7884c553c18335518f1"
+    },
+    {
+     "from": "2022-07-13",
+     "units": 254,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "359ac83346ce46ca2bb17a1967e37a263041955f4dcb19771b00f9bc16cff717"
+    },
+    {
+     "from": "2023-01-07",
+     "units": 254,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "199e36a1b0495873086ad066e7432d3df79713a0c54a5869e6a282a194fb3815"
+    },
+    {
+     "from": "2023-12-01",
+     "units": 254,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "ab1ebe096dd5bfc160dfb3ed9517dce51aa3f5963f7c1d4fd612bc6b58daa81f"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 256,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "b9de323e2b1dcf7bdd0d12716fe5550f37360f658848fb3f82f020f2cd047859"
+    },
+    {
+     "from": "2025-11-28",
+     "units": 256,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "90f3fc7c4abbad8ac2d92d7b92a00fd909af9131e229cc292d3910b3f97ed93e"
+    },
+    {
+     "from": "2026-06-27",
+     "units": 256,
+     "source_url": "https://www.althingi.is/lagas/nuna/2008088.html",
+     "sha256": "4ac006d202d7f6f900e9b2bbff091d7c5ebe4e88796b2d6a393dc0e3d49ec4e0"
+    }
+   ]
+  },
+  {
+   "slug": "log-um-medferd-einkamala",
+   "short": "eml.",
+   "title": "Lög um meðferð einkamála, nr. 91/1991",
+   "url": "https://www.althingi.is/lagas/nuna/1991091.html",
+   "versions": [
+    {
+     "from": "1995-10-01",
+     "units": 181,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "0f56079b67646753baacba7ae54b53bbdb20d3812cdd3f8f48a88df589e344f6"
+    },
+    {
+     "from": "1998-07-01",
+     "units": 181,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "d42ea6b376e6d6175a6f36c13514679a506c63f17fc5fa889d63a6b18d7f9d56"
+    },
+    {
+     "from": "1998-10-01",
+     "units": 181,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "d42ea6b376e6d6175a6f36c13514679a506c63f17fc5fa889d63a6b18d7f9d56"
+    },
+    {
+     "from": "1999-05-01",
+     "units": 181,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "9cc7505def85b8d4dd9239ca5170e39f67b19aedaa06d069512ef222fb34ce7c"
+    },
+    {
+     "from": "1999-10-01",
+     "units": 181,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "486434b917fef0f694845802b1f9d5e0754292d09ac457a3fd0552e71f995d46"
+    },
+    {
+     "from": "1999-12-27",
+     "units": 181,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "7ebd2f72de09d0a37f643194728cca5fc29e36f2973c6d72aeca19893c7f1dd7"
+    },
+    {
+     "from": "2003-04-10",
+     "units": 181,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "4349396b657ccb0ff3c8a5e3efb0b7e6398c5757074336616d7e0f6c7d958f6c"
+    },
+    {
+     "from": "2005-02-24",
+     "units": 182,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "7ae932e8b4fa8c53a6c592c8c487107cbdf423fca2659c9b8b065d0eddebc9e9"
+    },
+    {
+     "from": "2008-06-07",
+     "units": 182,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "fa1006895316ad15f868658e9b5a8cbd6bb219407a5fb66b4bf2ff80df4631af"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 182,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "2071391ee955855f7fe2fbbadefffdd25240929d1f1b38015d62715f0e3ed63e"
+    },
+    {
+     "from": "2009-06-30",
+     "units": 182,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "acb44e8048d86f015289e165fe78fa6ebfbcd02a44b618c301662c6bfbc139d1"
+    },
+    {
+     "from": "2010-09-23",
+     "units": 183,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "5df505be1b0996de268561c0d6f586913815b74c4f5ab1e0fc315acf4084020d"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 183,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "27d3afcb4ce74bebbb8bf2da074b6aa439138f7fd903649367be7ef54aa413f3"
+    },
+    {
+     "from": "2011-09-30",
+     "units": 183,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "8168f314e30f7e179fc466b3f77266262a66490dd9917655d6534b73469b3f99"
+    },
+    {
+     "from": "2012-07-04",
+     "units": 183,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "ed2d6acda28122ee846386a515d0fd79afa7c8455eb5e71e25b373aca17e40c4"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 183,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "8013d18310b72b7e183e25015695954bd66fff4c5d757b4246573b3fe566528b"
+    },
+    {
+     "from": "2013-03-09",
+     "units": 183,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "8013d18310b72b7e183e25015695954bd66fff4c5d757b4246573b3fe566528b"
+    },
+    {
+     "from": "2013-07-04",
+     "units": 184,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "f7cf29445917b5d6de57a77c70d1a2dc0cf80ce798bc252aaf2f80102e5ec00c"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 184,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "07ed55662a69618839d56cf4b65f2ee5a9dece8f2456d6583db2a6f478e94eee"
+    },
+    {
+     "from": "2015-08-01",
+     "units": 184,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "f603b23eb1fe6a0932001faefb56659a06d48038b0df29f2e187316ede64eadd"
+    },
+    {
+     "from": "2016-09-24",
+     "units": 184,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "8bcc95661b2610617e63be4bb16f7c8f2fbd5a4ece4018ab12c0b619159fd060"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 205,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "9387994482570da17781d27435d1043ff47f49883895c76b8f4e324cadead8bc"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 205,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "ce29af4275b7c76437b0731be076a667cd7228e9f979d397821935be677b4851"
+    },
+    {
+     "from": "2019-04-03",
+     "units": 205,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "7b169694360b3c0fec9d80124798de6814a7824fcf93ba35556c0900106cf217"
+    },
+    {
+     "from": "2019-07-05",
+     "units": 205,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "5b4fe14e33c79d31c6eb56778d6fdc4bd54fc913ed2f000d02a92607a4c88aa8"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 205,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "b350ef589d85ec49d928f6761442246079633051d2534b25542dae91f8d4b1ab"
+    },
+    {
+     "from": "2020-05-09",
+     "units": 206,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "51c0f82f13111b0765b43892f015a0bb97b44298d200dfaa4981ce9aedd71509"
+    },
+    {
+     "from": "2020-11-19",
+     "units": 206,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "fd7a348baf623f7fe0197ee219a22c6bf934a1c664238cb6bdbe068e7fa43ecf"
+    },
+    {
+     "from": "2020-12-01",
+     "units": 206,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "fd7a348baf623f7fe0197ee219a22c6bf934a1c664238cb6bdbe068e7fa43ecf"
+    },
+    {
+     "from": "2021-04-13",
+     "units": 206,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "5d05ebf86e409b1371fa2f34882971bc21b75e865fd2d2441491836178816be3"
+    },
+    {
+     "from": "2021-12-31",
+     "units": 206,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "a2f1b924dc3fe289c4e417545eb8b2627c570c97556ed735441ca65cef6da590"
+    },
+    {
+     "from": "2023-01-07",
+     "units": 206,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "956a543b696e394af908be2ee7dce48c8e421682778011501389dccfdf3411c9"
+    },
+    {
+     "from": "2023-12-29",
+     "units": 206,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "f899ca15b7d024e53d15d78e03a7cbd19c98bceefa8ad818a9bb784d3d555e12"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 207,
+     "source_url": "https://www.althingi.is/lagas/nuna/1991091.html",
+     "sha256": "a6ee988872ee0597a52801e84677d3fcd7e919d1c86bce9390eeb9cd3fa46f4b"
+    }
+   ]
+  },
+  {
+   "slug": "samningalog",
+   "short": "sml. 7/1936",
+   "title": "Lög um samningsgerð, umboð og ógilda löggerninga, nr. 7/1936",
+   "url": "https://www.althingi.is/lagas/nuna/1936007.html",
+   "versions": [
+    {
+     "from": "1995-10-01",
+     "units": 44,
+     "source_url": "https://www.althingi.is/lagas/nuna/1936007.html",
+     "sha256": "d5be2395309c13f00fb91b298cac09048c5d2320b9678168cdc5ee11694da7da"
+    },
+    {
+     "from": "2001-12-31",
+     "units": 45,
+     "source_url": "https://www.althingi.is/lagas/nuna/1936007.html",
+     "sha256": "d172597289ac68888462b40f3d5db0730142001cd77423936510798541e3cc2a"
+    },
+    {
+     "from": "2003-04-10",
+     "units": 45,
+     "source_url": "https://www.althingi.is/lagas/nuna/1936007.html",
+     "sha256": "d172597289ac68888462b40f3d5db0730142001cd77423936510798541e3cc2a"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 45,
+     "source_url": "https://www.althingi.is/lagas/nuna/1936007.html",
+     "sha256": "f8428f44515362f20cccaf69773694295de9584f995f07c6fd079306ee0d97a9"
+    },
+    {
+     "from": "2009-10-01",
+     "units": 45,
+     "source_url": "https://www.althingi.is/lagas/nuna/1936007.html",
+     "sha256": "922fdfdc64bec55fe094f1cb9e4e5b4d53ca764b70634d1b822dbb1f87e291d7"
+    },
+    {
+     "from": "2011-09-30",
+     "units": 45,
+     "source_url": "https://www.althingi.is/lagas/nuna/1936007.html",
+     "sha256": "38a00812f4e59cf35e60f2f1609742a1e3bda1c17ce0c658268b7cc639fb9e4e"
+    }
+   ]
+  },
+  {
+   "slug": "log-um-stettarfelog-og-vinnudeilur",
+   "short": "stvl.",
+   "title": "Lög um stéttarfélög og vinnudeilur, nr. 80/1938",
+   "url": "https://www.althingi.is/lagas/nuna/1938080.html",
+   "versions": [
+    {
+     "from": "1995-10-01",
+     "units": 51,
+     "source_url": "https://www.althingi.is/lagas/nuna/1938080.html",
+     "sha256": "b2002488ab2070e8a979ab4eeee4e65b39467ca6c83b878e3cee27c15871eb63"
+    },
+    {
+     "from": "1996-06-19",
+     "units": 69,
+     "source_url": "https://www.althingi.is/lagas/nuna/1938080.html",
+     "sha256": "1ac66cdc6a153d2d3e7c15c81534edd361facc5176d7ea0ed06fc7d734a1a896"
+    },
+    {
+     "from": "1997-06-06",
+     "units": 70,
+     "source_url": "https://www.althingi.is/lagas/nuna/1938080.html",
+     "sha256": "1ac66cdc6a153d2d3e7c15c81534edd361facc5176d7ea0ed06fc7d734a1a896"
+    },
+    {
+     "from": "2000-02-01",
+     "units": 70,
+     "source_url": "https://www.althingi.is/lagas/nuna/1938080.html",
+     "sha256": "4281b2c8f2a3c4100095e264ac952cdb5fc2a41b631930354c2b4bc5293f2607"
+    },
+    {
+     "from": "2001-05-16",
+     "units": 70,
+     "source_url": "https://www.althingi.is/lagas/nuna/1938080.html",
+     "sha256": "da5099c8ef95920597a5df23bcb5e0c941a2f66c354e9d65b8e795fff65035a9"
+    },
+    {
+     "from": "2003-10-01",
+     "units": 70,
+     "source_url": "https://www.althingi.is/lagas/nuna/1938080.html",
+     "sha256": "732d59cb035ab9301120e7367514170fc8e787db9bea56018aa6130f7fb76748"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 70,
+     "source_url": "https://www.althingi.is/lagas/nuna/1938080.html",
+     "sha256": "0db07b3757b56ae84a2f7c7dd71739afe700ede12858eec9fbb9f4186ed6bae7"
+    },
+    {
+     "from": "2011-09-30",
+     "units": 70,
+     "source_url": "https://www.althingi.is/lagas/nuna/1938080.html",
+     "sha256": "2ea1e072a363a4e32a5059fe54eb8ed003d54d89c8faacbfbefda99fba9fe003"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 70,
+     "source_url": "https://www.althingi.is/lagas/nuna/1938080.html",
+     "sha256": "ed8fb41fe39127d50e3778f48dfde27ad8028ee37deaad919ed3854d0ab6d93c"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 70,
+     "source_url": "https://www.althingi.is/lagas/nuna/1938080.html",
+     "sha256": "6573cbeca853c4cc39727b09b0ab409b513e1b59d7e5302a3a7998e8963e4e35"
+    },
+    {
+     "from": "2019-05-03",
+     "units": 70,
+     "source_url": "https://www.althingi.is/lagas/nuna/1938080.html",
+     "sha256": "b31e462e18907dcd7ef969a31b12bf6ada8615abf2587aad2a7c391098b2a7c5"
+    },
+    {
+     "from": "2019-06-26",
+     "units": 70,
+     "source_url": "https://www.althingi.is/lagas/nuna/1938080.html",
+     "sha256": "911956450ca5dc680dcf71a81d0476f4fd33ca13da23c71d003f9d76542609ec"
+    },
+    {
+     "from": "2019-07-06",
+     "units": 70,
+     "source_url": "https://www.althingi.is/lagas/nuna/1938080.html",
+     "sha256": "911956450ca5dc680dcf71a81d0476f4fd33ca13da23c71d003f9d76542609ec"
+    },
+    {
+     "from": "2022-07-07",
+     "units": 70,
+     "source_url": "https://www.althingi.is/lagas/nuna/1938080.html",
+     "sha256": "697fbfc56448d450bd7bd8ad5472c61d54fa0b81cd69f70873f62db88a6897dc"
+    }
+   ]
+  }
+ ]
+}
