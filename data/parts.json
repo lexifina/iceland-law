@@ -1,0 +1,41 @@
+{
+ "parts": {
+  "10-stjornarskra.json": {
+   "acts": [
+    "stjornarskra"
+   ],
+   "sha256": "f8682fcc34445216fe24130227e40c88281f2d36861245e214b8026229da1324"
+  },
+  "20-almenn-hegningarlog.json": {
+   "acts": [
+    "almenn-hegningarlog"
+   ],
+   "sha256": "86cb651eca5bd086c9823671a6ca213a20d356f36319183be40372d431bcc7c1"
+  },
+  "30-log-um-medferd-sakamala.json": {
+   "acts": [
+    "log-um-medferd-sakamala"
+   ],
+   "sha256": "4e94cc2a3b3821fe32a848e85a625538341ab9b8a770e43152e986a2a4f9d4d2"
+  },
+  "40-log-um-medferd-einkamala.json": {
+   "acts": [
+    "log-um-medferd-einkamala"
+   ],
+   "sha256": "c130e9236110efc6548af063870607ffc230d7ce9b40bbc59e2a1eba05dc7672"
+  },
+  "50-samningalog.json": {
+   "acts": [
+    "samningalog"
+   ],
+   "sha256": "b37481bd7dd7cea0e9dae431aee07b3596ea273fe659e57db0c60b06e95d5ea9"
+  },
+  "60-log-um-stettarfelog-og-vinnudeilur.json": {
+   "acts": [
+    "log-um-stettarfelog-og-vinnudeilur"
+   ],
+   "sha256": "b3bfa146cc71ad9e6f90cc9951b8a87fffc34e81e5666416ed12d9126b79a3a5"
+  }
+ },
+ "schema": 1
+}
