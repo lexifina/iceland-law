@@ -30,7 +30,8 @@ The Icelandic texts are as Lagasafn prints them. The English texts are translati
 
 - **[Ask Claude about Icelandic law](https://global-law.lexifina.com/v1/try_claude?country=iceland)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=iceland)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=kjarasamning&jurisdictions=iceland)**: a search of Icelandic law for "kjarasamning" (collective agreement), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Icelandic law on our site](https://lexifina.com/law?country=iceland&q=kjarasamning)**: a search for "kjarasamning" (collective agreement), with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=kjarasamning&jurisdiction=iceland)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Icelandic or in English.
 

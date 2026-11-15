@@ -30,7 +30,8 @@ Hver lög eru í möppu sem heitir eftir titli þeirra (`log-um-stettarfelog-og-
 
 - **[Spyrjið Claude um íslensk lög](https://global-law.lexifina.com/v1/try_claude?country=iceland)**: opnar Claude með fyrstu spurningu tilbúna.
 - **[Spyrjið ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=iceland)**: sama spurning í ChatGPT.
-- **[Kallið á API-ið í vafranum](https://global-law.lexifina.com/v1/search_law?query=kjarasamning&jurisdictions=iceland)**: leit í íslenskum lögum að „kjarasamning“, svar á JSON-sniði. Skjölunin er [hér](https://lexifina.com/api/global-law).
+- **[Leitaðu í íslenskum lögum á vefnum okkar](https://lexifina.com/law?country=iceland&q=kjarasamning)**: leit að „kjarasamning“, með texta hvers ákvæðis og útgáfum þess, án aðgangs.
+- **[REST API fyrir forritara](https://global-law.lexifina.com/v1/search_law?query=kjarasamning&jurisdiction=iceland)**: sama leit sem JSON, án lykils. Skjölunin er [hér](https://lexifina.com/api/global-law).
 
 Báðir aðstoðarmennirnir lesa gögnin í gegnum ókeypis tengið Global law (MCP, `https://global-law.lexifina.com/mcp`); í fyrsta sinn gefur spjallið ykkur hlekkinn sem bætir því við. Spyrjið á íslensku eða ensku.
 
