@@ -61,6 +61,7 @@ Hver breyting er eignuð þeim breytingalögum sem neðanmálsgreinarnar nefna, 
 - `tools/check_repo.py` les hverja útgáfu aftur úr git á þeim degi sem hún tók gildi og deginum áður og ber hana saman við gagnasafnið (167 útgáfur af 10 lögum, 0 frávik); það kannar einnig að eftirvagnar hverrar færslu séu læsilegir, að engar sameiningarfærslur (merge commits) séu til og að engin dagsetning færslu fari aftur á bak eða sé í framtíðinni.
 - Önnur smíð úr sama gagnasafni gaf sömu tætigildi (hash) fyrir allar 153 færslurnar og 286 merkin (tags). Niðurstöðurnar eru í [`REPRODUCE.md`](REPRODUCE.md).
 - Sagan er aðeins aukin: `tools/append.py` bætir nýrri útgáfum ofan á og endurritar aldrei birta færslu.
+- [vulnerabilities/](vulnerabilities/): mögulegar villur í orðalagi þessara laga, sem greiningartól global-law finna og eru yfirfarnar handvirkt. Ekki keyrt enn.
 
 ## Það sem hún sýnir ekki
 
@@ -85,6 +86,10 @@ Sjá [`LICENSE`](LICENSE). Íslensk lög njóta ekki verndar höfundalaga (höfu
 Ekkert gervigreindarlíkan skrifaði, þýddi eða leiðrétti lagatexta og ekkert slíkt keyrir þegar sagan er smíðuð; forskriftirnar skrifaði gervigreindarlíkan (sjá [`REPRODUCE.md`](REPRODUCE.md)).
 
 Þetta er þýðing á ensku útgáfunni ([README.en.md](README.en.md)); ef þær stangast á gildir enska útgáfan.
+
+## Myndræn framsetning
+
+- [visualisations/](visualisations/): gröf teiknuð úr þessu safni. Ekki teiknuð enn.
 
 ## Meira
 

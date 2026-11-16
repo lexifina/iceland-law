@@ -61,6 +61,7 @@ Each change is credited to the amending law the footnotes name, as Lagasafn prin
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before and compares it with the corpus (167 versions of 10 acts, 0 mismatches); it also checks that every commit's trailers parse, that there are no merge commits and that no commit date goes backwards or lies in the future.
 - A second build from the same corpus gave identical hashes for all 153 commits and 286 tags. The results are in [`REPRODUCE.md`](REPRODUCE.md).
 - History is append-only: `tools/append.py` adds newer versions on top and never rewrites a published commit.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -83,6 +84,10 @@ Each change is credited to the amending law the footnotes name, as Lagasafn prin
 See [`LICENSE`](LICENSE). Icelandic laws are not protected by copyright (Höfundalög nr. 73/1972, 9. gr.); the Government of Iceland's sites allow free use of their English translations with acknowledgement of the source. Lexifina's arrangement, commit messages and tools are under CC BY 4.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
